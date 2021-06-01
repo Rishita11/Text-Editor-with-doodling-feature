@@ -11,7 +11,8 @@ For user convenience and elevated options Dpad will include variety of view opt
 
 The methodology is that Dpad will be divided into 4 parts then executed individually, compiled and transformed into a functional website.
 
-#REAL-TIME USAGE OF PROJECT:
+REAL-TIME USAGE OF PROJECT:
+
 Text Editor is not only related to programming but it is a software through which you can write or edit some text. As far as programming is concerned you have to write or code your programme in a text editor and then you have to compile your code using a compiler.
 
 1) It can be used to pen down thoughts.
