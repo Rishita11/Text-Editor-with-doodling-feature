@@ -7,7 +7,6 @@ Dpad will consist of File Handling operations to save , edit, print and delete t
 Text editing in Dpad will be achieved by using  data structures in functions like cut, copy, paste, undo and redo.
 Dpad  will have functions to change the Format of the text considering user preferences providing various  Font-families, font-style, font-color and font-size  accomplished by diverse inbuilt java libraries . 
 
-For user convenience and elevated options Dpad will include variety of view options allowing the user to set themes to the executable application, vary the size of the text in their document and for additional ease have a spell check functionality..  
+ 
 
-The methodology is that Dpad will be divided into 4 parts then executed individually, compiled and transformed into a functional website.
 
